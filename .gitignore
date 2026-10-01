@@ -1,0 +1,16 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+TestResults/
+
+## Banco de dados local e logs gerados em execução
+*.db
+*.db-shm
+*.db-wal
+logs/
+*.log
